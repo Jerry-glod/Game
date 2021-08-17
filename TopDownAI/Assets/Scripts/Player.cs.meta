@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 0fa1b304bd77ae642971ca7f0f90f27d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - animator: {instanceID: 0}
+  - gun_pivot: {instanceID: 0}
+  - knife_pivot: {instanceID: 0}
+  - zidanPrefabs: {fileID: 6592804804485074949, guid: 88136bd2f7df28049b3e6b0a7eda6758,
+      type: 3}
+  - mouse_pivot: {fileID: 6036548189463183616, guid: 37d8aa4d6f7631c4893e550cdc459c5c,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
